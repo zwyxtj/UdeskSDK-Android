@@ -1,1 +1,2 @@
-include ':UdeskSDKUI', ':udeskNewDemo', ':udeskvideo',':udeskasr'
+include ':UdeskSDKUI',  ':udeskvideo',':udeskasr'
+include ':udeskdemo'
